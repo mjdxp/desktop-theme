@@ -28,6 +28,8 @@ I use Ubuntu Regular as my system font.
 
 
 ## Credits
-The GTK3 theme is based on the b00merang project Solaris 9 theme: https://github.com/B00merang-Project/Solaris-9
+The GTK3 theme is based on the b00merang project Solaris 9 theme with a few tweaks: https://github.com/B00merang-Project/Solaris-9
 
-The Xfwm4 theme is based on this theme: https://www.xfce-look.org/p/1231025/
+The Xfwm4 theme is based on this theme with some changes/fixes: https://www.xfce-look.org/p/1231025/
+
+The Unity. Wine, and Xfcenotify themes were made by me. The GTK theme is based on the look of the Motif toolkit, and the window manager theme is based on mwm/CDE (dtwm).
